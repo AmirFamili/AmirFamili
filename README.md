@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End projects**
 
-- 👨‍💻 All of my projects are available at [https://amirfamili.github.io/Amir-Famili/](https://amirfamili.github.io/Amir-Famili/)
+- 👨‍💻 All of my projects are available at [https://amirfamili.com](https://amirfamili.com/)
 
 - 💬 Ask me about **Front-End Developer**
 
