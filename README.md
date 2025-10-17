@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Amir Famili</h1>
-<h3 align="center">A passionate Frontend Developer from United States</h3>
+<h3 align="center">A passionate FullStack Developer from United States</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **Khateelm**
+- 🔭 I’m currently working on **eloquAI**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m Deep-diving into AI, LLM integration, and startup development — turning ideas into scalable MVPs.
 
-- 👯 I’m looking to collaborate on **Front-End projects**
+- 👯 Open to collaborate on Front-End and AI-driven SaaS projects that push boundaries.
 
 - 👨‍💻 You can see my Portfolio at [https://amirfamili.com](https://amirfamili.com/)
 
-- 💬 Ask me about **Front-End Developer**
+- 💬 Ask me about Next.js, React, TypeScript, Supabase, or building MVPs fast
 
 - 📫 How to reach me **Amirmohammad.familii@gmail.com**
 
