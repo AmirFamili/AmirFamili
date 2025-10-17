@@ -37,9 +37,9 @@
   <a href="https://n8n.io" target="_blank" rel="noreferrer">
     <img src="https://n8n.io/favicon-32x32.png" width="40" height="40" alt="n8n" />
   </a>
-  <a href="https://coolify.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/coollabsio/coolify/main/public/logo.svg" width="40" height="40" alt="Coolify" />
-  </a>
+ <a href="https://coolify.io" target="_blank" rel="noreferrer">
+  <img src="https://coolify.io/logo.svg" width="40" height="40" alt="Coolify" />
+</a>
 </p>
 
 
