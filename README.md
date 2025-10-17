@@ -34,6 +34,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
  <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" height="40" alt="Supabase" /></a>
+  <a href="https://supabase.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" height="40" alt="Supabase" />
+  </a>
+  <a href="https://coolify.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/coollabsio/coolify/main/public/logo.svg" width="40" height="40" alt="Coolify" />
+  </a>
 </p>
 
 
@@ -44,10 +50,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/amir-mohammad-famili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-mohammad-famili" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22900969/amir-famili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22900969/amir-famili" height="30" width="40" /></a>
- <a href="https://n8n.io" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="40" height="40" alt="n8n" />
-</a>
- <a href="https://n8n.io" target="_blank" rel="noreferrer">
-  <img src="https://n8n.io/favicon-32x32.png" width="40" height="40" alt="n8n" />
-</a>
 </p>
