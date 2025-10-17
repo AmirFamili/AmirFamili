@@ -34,8 +34,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
  <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" height="40" alt="Supabase" /></a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" height="40" alt="Supabase" />
+  <a href="https://n8n.io" target="_blank" rel="noreferrer">
+    <img src="https://n8n.io/favicon-32x32.png" width="40" height="40" alt="n8n" />
   </a>
   <a href="https://coolify.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/coollabsio/coolify/main/public/logo.svg" width="40" height="40" alt="Coolify" />
