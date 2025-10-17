@@ -8,7 +8,7 @@
 
 - 👯 Open to collaborate on Front-End and AI-driven SaaS projects that push boundaries.
 
-- 👨‍💻 You can see my Portfolio at [[https://amirfamili.com](https://amirfamili.com/)](https://amirfamili.vercel.app/)
+- 👨‍💻 You can see my Portfolio at https://amirfamili.vercel.app/
 
 - 💬 Ask me about Next.js, React, TypeScript, Supabase, or building MVPs fast
 
